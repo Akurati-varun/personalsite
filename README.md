@@ -22,7 +22,7 @@
       <div class="row">
         <div class="col-md-8 col-sm-12">
           <div class="media">
-            <img src="file:///C|/Users/akura/Pictures/Saved Pictures/RA1711003010926.jpg" alt="Generic placeholder image" width="100" height="90" class="rounded-circle" style="margin-left: 30px" style="margin-top: 30px">
+            <img src="./RA1711003010926.jpg" alt="Generic placeholder image" width="100" height="90" class="rounded-circle" style="margin-left: 30px" style="margin-top: 30px">
             <div class="media-body">
               <h5 class='text-white' align="center">About Me</h5>
               <h7 align="center" class="text-white-50" style="margin-left: 10px">As software engineer, I strive to associate a position in an organisation that gives me an opportunity for self improvement and leadership,while contributing to the symbolic growth of the organisation with my technical skills </h7>
@@ -164,9 +164,9 @@
       </footer>
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="./jquery-3.4.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap-4.4.1.js"></script>
+    <script src="./popper.min.js"></script>
+    <script src="./bootstrap-4.4.1.js"></script>
   </body>
 </html>
