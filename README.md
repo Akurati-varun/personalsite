@@ -9,7 +9,7 @@
     <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
   </head>
   <body style="background: rgba(39,39,39,1.00)">
-	<div style="height:600px; background-image: url('//C:/Users/akura/Desktop/MfnWi1.jpg')">
+	<div style="height:600px; background-image: url('./MfnWi1.jpg')">
 	  <h1 style="color: aliceblue" align="center"><br>
 		  <br>
 		  <br>
