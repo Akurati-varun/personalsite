@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap Resume Page Template</title>
     <!-- Bootstrap -->
-    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+    <link href="./bootstrap-4.4.1.css" rel="stylesheet">
   </head>
   <body style="background: rgba(39,39,39,1.00)">
 	<div style="height:600px; background-image: url('./MfnWi1.jpg')">
