@@ -46,7 +46,7 @@
         <div class="col-md-6 col-sm-12">
           <h2 align="center"  style="color: rgba(221,189,44,1.00)">Education</h2>
           <hr>
-              <h5><span class="badge-secondary">10 board</span></h4>
+              <h5><span class="badge-secondary">10 board</span></h5>
 				<h6 align="center" class="text-white">Telangana state board of secondary education</h6>
 				<p align="center" class="text-white-50">
 				Sri Chaitanya high school,Hyderabad <br>Secured GPA-9.3 </p>
@@ -59,8 +59,7 @@
          <h6 align="center" class="text-white">SRM institute of science and technology  </h6>
 			   <p align="center" class="text-white-50">Till Six semister <br> Scored CGPA-8.2  </p>
 	    </div>
-		
-        <div class="col-md-6 col-sm-12">
+		<div class="col-md-6 col-sm-12">
           <h2 align="center"  style="color: rgba(72,12,177,1.00) ">Skill Set</h2>
           <hr>
           <div class="progress mt-4">
@@ -98,8 +97,7 @@
           </div>
           <h5><span class="badge badge-secondary">Team lead&nbsp;</span></h5>
           <p style="color: aqua" align="center">worked on machine learning integrated with iot project named as "smart guest identifier using remote access managment" using opencv(python)<br>
-			  
-		  </p>
+			  </p>
          <a href="https://youtu.be/aWyh3W5RlPM">Click here for demo</a>
         </div>
         <div class="col-md-6 col-sm-12">
@@ -120,9 +118,6 @@
 	  <p align="center" style="color: cornflowerblue">email:-aa_9007@srmist.edu.in<br>
 	     Reg no:-RA1711003010926</p>
       <hr>
-     
-        </div>
-      </div>
       <hr>
   <h2 style="color: cadetblue">For Queries</h2>
   <p> </p>
@@ -162,7 +157,6 @@
           </div>
         </div>
       </footer>
-    </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="./jquery-3.4.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
